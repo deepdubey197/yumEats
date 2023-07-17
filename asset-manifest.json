@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/yumEats-react-app/static/css/main.6fc7368a.css",
-    "main.js": "/yumEats-react-app/static/js/main.ef53ffed.js",
-    "index.html": "/yumEats-react-app/index.html",
-    "main.6fc7368a.css.map": "/yumEats-react-app/static/css/main.6fc7368a.css.map",
-    "main.ef53ffed.js.map": "/yumEats-react-app/static/js/main.ef53ffed.js.map"
+    "main.css": "/yumEats/static/css/main.6fc7368a.css",
+    "main.js": "/yumEats/static/js/main.ef53ffed.js",
+    "index.html": "/yumEats/index.html",
+    "main.6fc7368a.css.map": "/yumEats/static/css/main.6fc7368a.css.map",
+    "main.ef53ffed.js.map": "/yumEats/static/js/main.ef53ffed.js.map"
   },
   "entrypoints": [
     "static/css/main.6fc7368a.css",
